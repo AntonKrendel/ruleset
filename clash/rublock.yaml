@@ -789,3 +789,4 @@ payload:
   - DOMAIN-SUFFIX,zendesk.com
   - DOMAIN-SUFFIX,zerkalo.io
   - DOMAIN-SUFFIX,zona.media
+  - IP-CIDR,31.131.253.250/32

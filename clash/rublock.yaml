@@ -3,7 +3,7 @@ payload:
   - DOMAIN-SUFFIX,10minutemail.com
   - DOMAIN-SUFFIX,24.kg
   - DOMAIN-SUFFIX,4freerussia.org
-  - DOMAIN-SUFFIX,4pda.to
+  - DOMAIN-KEYWORD,4pda
   - DOMAIN-SUFFIX,4pna.com
   - DOMAIN-SUFFIX,5sim.net
   - DOMAIN-SUFFIX,7dniv.rv.ua

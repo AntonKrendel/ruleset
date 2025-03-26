@@ -790,3 +790,30 @@ payload:
   - DOMAIN-SUFFIX,zerkalo.io
   - DOMAIN-SUFFIX,zona.media
   - IP-CIDR,31.131.253.250/32
+  - DOMAIN-SUFFIX,boombeach.com
+  - DOMAIN-SUFFIX,brawlstars.com
+  - DOMAIN-SUFFIX,brawlstarsgame.com
+  - DOMAIN-SUFFIX,clash.com
+  - DOMAIN-SUFFIX,clashmini.com
+  - DOMAIN-SUFFIX,clashofclans.com
+  - DOMAIN-SUFFIX,clashroyale.com
+  - DOMAIN-SUFFIX,clashroyaleapp.com
+  - DOMAIN-SUFFIX,gamesfirsthelsinki.com
+  - DOMAIN-SUFFIX,hayday.com
+  - DOMAIN-SUFFIX,haydaygame.com
+  - DOMAIN-SUFFIX,ingest.sentry.io
+  - DOMAIN-SUFFIX,game-assets.clashofclans.com
+  - DOMAIN-SUFFIX,gamea.clashofclans.com
+  - DOMAIN-SUFFIX,clashofclans.inbox.supercell.com
+  - DOMAIN-SUFFIX,mo.co
+  - DOMAIN-SUFFIX,seeurlpcl.com
+  - DOMAIN-SUFFIX,squadbusters.com
+  - DOMAIN-SUFFIX,supercell.com
+  - DOMAIN-SUFFIX,supercell.helpshift.com
+  - DOMAIN-SUFFIX,supercell.net
+  - DOMAIN-SUFFIX,supercellcreators.com
+  - DOMAIN-SUFFIX,supercellgames.com
+  - DOMAIN-SUFFIX,supercellid.com
+  - DOMAIN-SUFFIX,supercellstore.com
+  - DOMAIN-SUFFIX,sex-studentki.video
+  - DOMAIN,ru.sex-studentki.video

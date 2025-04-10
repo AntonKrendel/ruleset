@@ -259,9 +259,7 @@ payload:
   - DOMAIN-SUFFIX,halooglasi.com
   - DOMAIN-SUFFIX,hashicorp.com
   - DOMAIN-SUFFIX,hdkinoteatr.com
-  - DOMAIN-SUFFIX,hdrezka.ac
-  - DOMAIN-SUFFIX,hdrezka.ag
-  - DOMAIN-SUFFIX,hdrezka.me
+  - DOMAIN-KEYWORD,hdrezka
   - DOMAIN-SUFFIX,healthline.com
   - DOMAIN-SUFFIX,hentai-foundry.com
   - DOMAIN-SUFFIX,herokucdn.com

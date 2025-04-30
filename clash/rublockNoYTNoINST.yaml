@@ -459,6 +459,9 @@ payload:
   - DOMAIN-SUFFIX,onshape.com
   - DOMAIN-SUFFIX,openmedia.io
   - DOMAIN-SUFFIX,opensea.io
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
+  - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,opposition-news.com
   - DOMAIN-SUFFIX,ovd.info
   - DOMAIN-SUFFIX,ovd.legal

@@ -105,7 +105,6 @@ payload:
   - DOMAIN-SUFFIX,censortracker.org
   - DOMAIN-SUFFIX,chaos.com
   - DOMAIN-SUFFIX,chat.com
-  - DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chaturbate.com
   - DOMAIN-SUFFIX,cherta.media
@@ -458,7 +457,6 @@ payload:
   - DOMAIN-SUFFIX,onfastspring.com
   - DOMAIN-SUFFIX,onlinesim.io
   - DOMAIN-SUFFIX,onshape.com
-  - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,openmedia.io
   - DOMAIN-SUFFIX,opensea.io
   - DOMAIN-SUFFIX,opposition-news.com

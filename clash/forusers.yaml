@@ -1,3 +1,4 @@
+payload:
   - DOMAIN,apt-beta.artifacts.ui.com
   - DOMAIN,apt-release-candidate.artifacts.ui.com
   - DOMAIN,apt.artifacts.ui.com

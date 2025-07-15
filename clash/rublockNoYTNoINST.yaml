@@ -436,7 +436,6 @@ payload:
   - DOMAIN-SUFFIX,ocstore.com
   - DOMAIN-SUFFIX,oculus.com
   - DOMAIN-SUFFIX,oculus-china.com
-  - DOMAIN-SUFFIX,oculus.com
   - DOMAIN-SUFFIX,oculus2014.com
   - DOMAIN-SUFFIX,oculus3d.com
   - DOMAIN-SUFFIX,oculusblog.com
@@ -471,7 +470,6 @@ payload:
   - DOMAIN-SUFFIX,cdn.oaistatic.com
   - DOMAIN-SUFFIX,cdn.openai.com
   - DOMAIN-SUFFIX,chat.openai.com
-  - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,community.openai.com
   - DOMAIN-SUFFIX,contest.openai.com
   - DOMAIN-SUFFIX,d.docs.live.net
@@ -486,7 +484,6 @@ payload:
   - DOMAIN-SUFFIX,labs.openai.com
   - DOMAIN-SUFFIX,microscope.openai.com
   - DOMAIN-SUFFIX,mobile.events.data.microsoft.com
-  - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,openai.fund
   - DOMAIN-SUFFIX,openai.org
@@ -505,11 +502,9 @@ payload:
   - DOMAIN,openaicomproductionae4b.blob.core.windows.net
   - DOMAIN,production-openaicom-storage.azureedge.net
   - DOMAIN,static.cloudflareinsights.com
-  - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,algolia.net
   - DOMAIN-SUFFIX,api.statsig.com
   - DOMAIN-SUFFIX,auth0.com
-  - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud
   - DOMAIN-SUFFIX,client-api.arkoselabs.com
   - DOMAIN-SUFFIX,events.statsigapi.net
@@ -519,10 +514,7 @@ payload:
   - DOMAIN-SUFFIX,intercom.io
   - DOMAIN-SUFFIX,intercomcdn.com
   - DOMAIN-SUFFIX,launchdarkly.com
-  - DOMAIN-SUFFIX,oaistatic.com
-  - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,observeit.net
-  - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
   - DOMAIN-SUFFIX,openaicom.imgix.net
   - DOMAIN-SUFFIX,segment.io
@@ -839,12 +831,9 @@ payload:
   - IP-CIDR,31.131.253.250/32
   - DOMAIN-SUFFIX,boombeach.com
   - DOMAIN-SUFFIX,brawlstars.com
-  - DOMAIN-SUFFIX,brawlstarsgame.com
   - DOMAIN-SUFFIX,clash.com
   - DOMAIN-SUFFIX,clashmini.com
-  - DOMAIN-SUFFIX,clashofclans.com
   - DOMAIN-SUFFIX,clashroyale.com
-  - DOMAIN-SUFFIX,clashroyaleapp.com
   - DOMAIN-SUFFIX,gamesfirsthelsinki.com
   - DOMAIN-SUFFIX,hayday.com
   - DOMAIN-SUFFIX,haydaygame.com
@@ -855,7 +844,6 @@ payload:
   - DOMAIN-SUFFIX,mo.co
   - DOMAIN-SUFFIX,seeurlpcl.com
   - DOMAIN-SUFFIX,squadbusters.com
-  - DOMAIN-SUFFIX,supercell.com
   - DOMAIN-SUFFIX,supercell.helpshift.com
   - DOMAIN-SUFFIX,supercell.net
   - DOMAIN-SUFFIX,supercellcreators.com
@@ -879,7 +867,6 @@ payload:
   - DOMAIN-SUFFIX,airhorn.solutions
   - DOMAIN-SUFFIX,airhornbot.com
   - DOMAIN-SUFFIX,bigbeans.solutions
-  - DOMAIN-SUFFIX,dis.gd
   - DOMAIN-SUFFIX,discord-activities.com
   - DOMAIN-SUFFIX,discord.co
   - DOMAIN-SUFFIX,discord.com

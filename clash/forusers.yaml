@@ -5,4 +5,5 @@ payload:
   - DOMAIN,fw-download.ubnt.com
   - DOMAIN,fw-update.ubnt.com
   - DOMAIN,fw-update.ui.com
+  - DOMAIN-SUFFIX,coconut.net
 

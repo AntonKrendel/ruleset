@@ -6,4 +6,8 @@ payload:
   - DOMAIN,fw-update.ubnt.com
   - DOMAIN,fw-update.ui.com
   - DOMAIN-SUFFIX,coconut.net
-
+  - DOMAIN-SUFFIX,ml.youngjoygame.com
+  - DOMAIN-SUFFIX,report.ml.youngjoygame.com
+  - DOMAIN-SUFFIX,login.ml.youngjoygame.com
+  - DOMAIN-SUFFIX,newlogin.ml.youngjoygame.com
+  - DOMAIN-KEYWORD,youngjoygame

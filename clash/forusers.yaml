@@ -11,3 +11,26 @@ payload:
   - DOMAIN-SUFFIX,login.ml.youngjoygame.com
   - DOMAIN-SUFFIX,newlogin.ml.youngjoygame.com
   - DOMAIN-KEYWORD,youngjoygame
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,openai.chat.com
+  - DOMAIN-SUFFIX,openai.github.io
+  - DOMAIN-SUFFIX,auth0app.com
+  - DOMAIN-SUFFIX,cloudflare.net
+  - DOMAIN-SUFFIX,email.openai.com
+  - DOMAIN-SUFFIX,intercom-attachments-7.com
+  - DOMAIN-SUFFIX,idarkode.in
+  - DOMAIN-SUFFIX,setia.ru
+  - DOMAIN-SUFFIX,ikontra.com
+  - DOMAIN-SUFFIX,openthinklabs.com
+  - DOMAIN-SUFFIX,qualtrics.com
+  - DOMAIN-SUFFIX,oai.com
+  - DOMAIN-SUFFIX,oaipmh.com
+  - DOMAIN-SUFFIX,asistentechatgpt.com
+  - DOMAIN-SUFFIX,gpt3-openai.com
+  - DOMAIN-SUFFIX,nb-chatgpt.com
+  - DOMAIN-SUFFIX,okchatgpt.com
+  - DOMAIN-SUFFIX,opchatgpt.com
+  - DOMAIN-SUFFIX,chatwithchatgpt.com

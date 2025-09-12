@@ -1,1 +1,10 @@
-vless://fe638794-5aad-4ed8-875a-291af56c65bd@89.110.75.25:443?security=reality&sni=google.com&fp=chrome&pbk=FeE-kDjwKgDBb26cK76mwrOwhub-pn-tzykZGOMqDWg&sid=2f2af8c224709d&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#vless-test
+#vless://fe638794-5aad-4ed8-875a-291af56c65bd@89.110.75.25:443?security=reality&sni=google.com&fp=chrome&pbk=FeE-kDjwKgDBb26cK76mwrOwhub-pn-tzykZGOMqDWg&sid=2f2af8c224709d&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#vless-test
+trojan://Aimer@185.169.107.15:2053?security=tls&sni=epccf.ambercc.filegear-sg.me&type=tcp#%F0%9F%94%92%20TR-TCP-NA%20%F0%9F%87%B3%F0%9F%87%B1%20NL-185.169.107.15:2053
+trojan://Aimer@45.134.21.8:2053?security=tls&sni=epcch.ambercc.filegear-sg.me&type=tcp#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%B3%F0%9F%87%B1%20NL-45.134.21.8:2053
+trojan://Aimer@5.35.68.249:2053?security=tls&sni=epccv.ambercc.filegear-sg.me&type=tcp#%F0%9F%94%92%20TR-TCP-NA%20%F0%9F%87%B3%F0%9F%87%B1%20NL-5.35.68.249:2053
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@37.48.65.144:443?security=tls&sni=trus.moonfree.top&type=tcp#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%B3%F0%9F%87%B1%20NL-37.48.65.144:443
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.53:443?security=tls&sni=trus.moonfree.top&type=tcp#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%B3%F0%9F%87%B1%20NL-185.107.56.53:443
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.194:443?security=tls&sni=trus.moonfree.top&type=tcp#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%B3%F0%9F%87%B1%20NL-185.107.56.194:443
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.55:443?security=tls&sni=trus.moonfree.top&type=tcp#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%B3%F0%9F%87%B1%20NL-185.107.56.55:443
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.52:443?security=tls&sni=trus.moonfree.top&type=tcp#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%B3%F0%9F%87%B1%20NL-185.107.56.52:443
+trojan://Aimer@77.238.236.134:8443?security=tls&sni=agepq.ambercc.filegear-sg.me&type=tcp#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%B3%F0%9F%87%B1%20NL-77.238.236.134:8443

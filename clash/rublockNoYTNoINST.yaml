@@ -934,3 +934,9 @@ payload:
   - DOMAIN-KEYWORD,colab
   - DOMAIN-KEYWORD,developerprofiles
   - DOMAIN-KEYWORD,generativelanguage
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,one.one.one.one
+  - DOMAIN-SUFFIX,cloudflarestatus.com
+  - DOMAIN-SUFFIX,cdnjs.com
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,digitalocean.com

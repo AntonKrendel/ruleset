@@ -1086,3 +1086,5 @@ payload:
   - IP-CIDR,31.131.253.250/32
   - IP-CIDR,64.23.132.171/32
   - DOMAIN,ubmidrupalcandd.s3-eu-west-1.amazonaws.com
+  - IP-CIDR,52.218.106.40/32
+

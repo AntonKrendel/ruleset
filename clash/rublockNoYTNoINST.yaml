@@ -1085,6 +1085,3 @@ payload:
   - IP-CIDR,24.199.123.28/32
   - IP-CIDR,31.131.253.250/32
   - IP-CIDR,64.23.132.171/32
-  - IP-CIDR,52.218.106.40/32
-  - DOMAIN-SUFFIX,amazonaws.com
-  - DOMAIN-SUFFIX,mobaxterm.mobatek.net

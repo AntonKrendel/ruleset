@@ -11,6 +11,7 @@ payload:
   - DOMAIN-KEYWORD,pinterest
   - DOMAIN-KEYWORD,pornhub
   - DOMAIN-SUFFIX,.ua
+  - DOMAIN-SUFFIX,technical.city
   - DOMAIN-SUFFIX,10minutemail.com
   - DOMAIN-SUFFIX,1337x.to
   - DOMAIN-SUFFIX,24.kg

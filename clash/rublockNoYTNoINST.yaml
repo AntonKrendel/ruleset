@@ -816,7 +816,6 @@ payload:
   - DOMAIN-SUFFIX,republic.ru
   - DOMAIN-SUFFIX,research.net
   - DOMAIN-SUFFIX,restream.io
-  - DOMAIN-SUFFIX,returnyoutubedislikeapi.com
   - DOMAIN-SUFFIX,reve.art
   - DOMAIN-SUFFIX,rezka-ua.in
   - DOMAIN-SUFFIX,rezka.ag
@@ -1119,7 +1118,6 @@ payload:
   - DOMAIN-SUFFIX,weebly.com
   - DOMAIN-SUFFIX,welt.de
   - DOMAIN-SUFFIX,whoer.net
-  - DOMAIN-SUFFIX,wide-youtube.l.google.com
   - DOMAIN-SUFFIX,widgetapp.stream
   - DOMAIN-SUFFIX,wiki.fextralife.com
   - DOMAIN-SUFFIX,wikidot.com
@@ -1150,20 +1148,6 @@ payload:
   - DOMAIN-SUFFIX,yande.re
   - DOMAIN-SUFFIX,yeggi.com
   - DOMAIN-SUFFIX,yle.fi
-  - DOMAIN-SUFFIX,youtrack.cloud
-  - DOMAIN-SUFFIX,youtu.be
-  - DOMAIN-SUFFIX,youtube-nocookie.com
-  - DOMAIN-SUFFIX,youtube-ui.l.google.com
-  - DOMAIN-SUFFIX,youtube.com
-  - DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com
-  - DOMAIN-SUFFIX,youtubei.googleapis.com
-  - DOMAIN-SUFFIX,youtubekids.com
-  - DOMAIN-SUFFIX,yt-video-upload.l.google.com
-  - DOMAIN-SUFFIX,yt.be
-  - DOMAIN-SUFFIX,yt3.googleusercontent.com
-  - DOMAIN-SUFFIX,ytimg.com
-  - DOMAIN-SUFFIX,ytimg.l.google.com
-  - DOMAIN-SUFFIX,yting.com
   - DOMAIN-SUFFIX,yummyani.me
   - DOMAIN-SUFFIX,zahav.ru
   - DOMAIN-SUFFIX,zapier.com
@@ -1173,3 +1157,23 @@ payload:
   - DOMAIN-SUFFIX,zendesk.com
   - DOMAIN-SUFFIX,zerkalo.io
   - DOMAIN-SUFFIX,zona.media
+  - IP-ASN,20473
+  - IP-CIDR,103.21.244.0/22
+  - IP-CIDR,103.22.200.0/22
+  - IP-CIDR,103.31.4.0/22
+  - IP-CIDR,104.16.0.0/13
+  - IP-CIDR,104.24.0.0/14
+  - IP-CIDR,108.162.192.0/18
+  - IP-CIDR,131.0.72.0/22
+  - IP-CIDR,141.101.64.0/18
+  - IP-CIDR,162.158.0.0/15
+  - IP-CIDR,172.64.0.0/13
+  - IP-CIDR,173.245.48.0/20
+  - IP-CIDR,188.114.96.0/20
+  - IP-CIDR,190.93.240.0/20
+  - IP-CIDR,197.234.240.0/22
+  - IP-CIDR,198.41.128.0/17
+  - IP-CIDR,24.199.123.28/32
+  - IP-CIDR,31.131.253.250/32
+  - IP-CIDR,52.218.106.40/32
+  - IP-CIDR,64.23.132.171/32

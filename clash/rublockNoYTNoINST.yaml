@@ -11,6 +11,7 @@ payload:
   - DOMAIN-KEYWORD,openai
   - DOMAIN-KEYWORD,pinterest
   - DOMAIN-KEYWORD,pornhub
+  - DOMAIN-SUFFIX,mobaxterm.mobatek.net
   - DOMAIN-SUFFIX,.ua
   - DOMAIN-SUFFIX,10minutemail.com
   - DOMAIN-SUFFIX,sponsor.ajay.app

@@ -13,9 +13,7 @@ payload:
   - DOMAIN-KEYWORD,pornhub
   - DOMAIN-SUFFIX,mobaxterm.mobatek.net
   - DOMAIN-SUFFIX,overwolf.com
-  - DOMAIN,overwolf.com,DIRECT
-  - DOMAIN-SUFFIX,teremokgames.com
-  - DOMAIN-SUFFIX,aniview.com,REJECT
+  - DOMAIN,pairwise.teremokgames.com
   - DOMAIN-SUFFIX,.ua
   - DOMAIN-SUFFIX,10minutemail.com
   - DOMAIN-SUFFIX,sponsor.ajay.app

@@ -1,23 +1,18 @@
 payload:
-  - DOMAIN-KEYWORD,voidboost
   - DOMAIN-KEYWORD,4pda
   - DOMAIN-KEYWORD,colab
   - DOMAIN-KEYWORD,crealitycloud
   - DOMAIN-KEYWORD,developerprofiles
-  - DOMAIN-KEYWORD,hdrezka
-  - DOMAIN-KEYWORD,rezka
   - DOMAIN-KEYWORD,filmix
   - DOMAIN-KEYWORD,generativelanguage
+  - DOMAIN-KEYWORD,hdrezka
   - DOMAIN-KEYWORD,openai
   - DOMAIN-KEYWORD,pinterest
   - DOMAIN-KEYWORD,pornhub
-  - DOMAIN-SUFFIX,mobaxterm.mobatek.net
-  - DOMAIN-SUFFIX,overwolf.com
-  - DOMAIN,pairwise.teremokgames.com
+  - DOMAIN-KEYWORD,rezka
+  - DOMAIN-KEYWORD,voidboost
   - DOMAIN-SUFFIX,.ua
   - DOMAIN-SUFFIX,10minutemail.com
-  - DOMAIN-SUFFIX,sponsor.ajay.app
-  - DOMAIN-SUFFIX,keybr.com
   - DOMAIN-SUFFIX,1337x.to
   - DOMAIN-SUFFIX,24.kg
   - DOMAIN-SUFFIX,4freerussia.org
@@ -160,7 +155,6 @@ payload:
   - DOMAIN-SUFFIX,cdn.oaistatic.com
   - DOMAIN-SUFFIX,cdn.web-platform.io
   - DOMAIN-SUFFIX,cdnbunny.org
-  - DOMAIN-SUFFIX,cdninstagram.com
   - DOMAIN-SUFFIX,cdnjs.com
   - DOMAIN-SUFFIX,cdromance.org
   - DOMAIN-SUFFIX,cdw.com
@@ -285,6 +279,7 @@ payload:
   - DOMAIN-SUFFIX,domain,ai.google.dev
   - DOMAIN-SUFFIX,domain,alkalimakersuite-pa.clients6.google.com
   - DOMAIN-SUFFIX,domain,makersuite.google.com
+  - DOMAIN-SUFFIX,domain,pairwise.teremokgames.com
   - DOMAIN-SUFFIX,dorama.live
   - DOMAIN-SUFFIX,doramalive.ru
   - DOMAIN-SUFFIX,doramy.club
@@ -391,7 +386,6 @@ payload:
   - DOMAIN-SUFFIX,getoutline.com
   - DOMAIN-SUFFIX,getoutline.org
   - DOMAIN-SUFFIX,gfn.am
-  - DOMAIN-SUFFIX,ggpht.com
   - DOMAIN-SUFFIX,ghostrc.game.idtech.services
   - DOMAIN-SUFFIX,gifyu.com
   - DOMAIN-SUFFIX,glavred.info
@@ -405,7 +399,6 @@ payload:
   - DOMAIN-SUFFIX,golosameriki.com
   - DOMAIN-SUFFIX,gonitro.com
   - DOMAIN-SUFFIX,goodreads.com
-  - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,gpsonextra.net
   - DOMAIN-SUFFIX,gpu-monkey.com
   - DOMAIN-SUFFIX,gql.twitch.tv
@@ -431,7 +424,6 @@ payload:
   - DOMAIN-SUFFIX,hbomax.com
   - DOMAIN-SUFFIX,hc-ping.com
   - DOMAIN-SUFFIX,hchk.io
-  - DOMAIN-SUFFIX,hd-rezka.tv
   - DOMAIN-SUFFIX,hdkinoteatr.com
   - DOMAIN-SUFFIX,hdrzk.org
   - DOMAIN-SUFFIX,hdstudio.org
@@ -476,7 +468,6 @@ payload:
   - DOMAIN-SUFFIX,infineon.com
   - DOMAIN-SUFFIX,ingest.sentry.io
   - DOMAIN-SUFFIX,insearch.site
-  - DOMAIN-SUFFIX,instagram.com
   - DOMAIN-SUFFIX,install.launcher.omniverse.nvidia.com
   - DOMAIN-SUFFIX,intel.com
   - DOMAIN-SUFFIX,intel.de
@@ -513,6 +504,7 @@ payload:
   - DOMAIN-SUFFIX,kavkaz-uzel.eu
   - DOMAIN-SUFFIX,kavkazr.com
   - DOMAIN-SUFFIX,kemono.su
+  - DOMAIN-SUFFIX,keybr.com
   - DOMAIN-SUFFIX,keysight.com
   - DOMAIN-SUFFIX,kino.pub
   - DOMAIN-SUFFIX,kinogo.ec
@@ -733,6 +725,7 @@ payload:
   - DOMAIN-SUFFIX,ovd.legal
   - DOMAIN-SUFFIX,ovd.news
   - DOMAIN-SUFFIX,ovdinfo.org
+  - DOMAIN-SUFFIX,overwolf.com
   - DOMAIN-SUFFIX,ozodi.org
   - DOMAIN-SUFFIX,pages.dev
   - DOMAIN-SUFFIX,pandasecurity.com
@@ -770,6 +763,7 @@ payload:
   - DOMAIN-SUFFIX,politiken.dk
   - DOMAIN-SUFFIX,polymarket.com
   - DOMAIN-SUFFIX,pornolab.net
+  - DOMAIN-SUFFIX,porofessor.gg
   - DOMAIN-SUFFIX,portal.lviv.ua
   - DOMAIN-SUFFIX,posle.media
   - DOMAIN-SUFFIX,posthog.com
@@ -820,13 +814,6 @@ payload:
   - DOMAIN-SUFFIX,research.net
   - DOMAIN-SUFFIX,restream.io
   - DOMAIN-SUFFIX,reve.art
-  - DOMAIN-SUFFIX,rezka-ua.in
-  - DOMAIN-SUFFIX,rezka.ag
-  - DOMAIN-SUFFIX,rezka.cc
-  - DOMAIN-SUFFIX,rezka.fi
-  - DOMAIN-SUFFIX,rezka.land
-  - DOMAIN-SUFFIX,rezka.my
-  - DOMAIN-SUFFIX,rezka.tv
   - DOMAIN-SUFFIX,rezkify.com
   - DOMAIN-SUFFIX,rezonans.media
   - DOMAIN-SUFFIX,rf.dobrochan.net
@@ -941,11 +928,11 @@ payload:
   - DOMAIN-SUFFIX,soundcloud.com
   - DOMAIN-SUFFIX,sovetromantica.com
   - DOMAIN-SUFFIX,spacelift.io
-  - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,spektr.press
   - DOMAIN-SUFFIX,spiceworks.com
   - DOMAIN-SUFFIX,spiegel.de
   - DOMAIN-SUFFIX,spitfireaudio.com
+  - DOMAIN-SUFFIX,sponsor.ajay.app
   - DOMAIN-SUFFIX,spotify.com
   - DOMAIN-SUFFIX,spreadthesign.com
   - DOMAIN-SUFFIX,sputnikipogrom.com
@@ -1099,7 +1086,6 @@ payload:
   - DOMAIN-SUFFIX,vmware.com
   - DOMAIN-SUFFIX,vndb.org
   - DOMAIN-SUFFIX,voanews.com
-  - DOMAIN-SUFFIX,voidboost.cc
   - DOMAIN-SUFFIX,volkswagen-classic-parts.com
   - DOMAIN-SUFFIX,vot-tak.tv
   - DOMAIN-SUFFIX,vpngate.net
@@ -1151,6 +1137,7 @@ payload:
   - DOMAIN-SUFFIX,yande.re
   - DOMAIN-SUFFIX,yeggi.com
   - DOMAIN-SUFFIX,yle.fi
+  - DOMAIN-SUFFIX,youtrack.cloud
   - DOMAIN-SUFFIX,yummyani.me
   - DOMAIN-SUFFIX,zahav.ru
   - DOMAIN-SUFFIX,zapier.com

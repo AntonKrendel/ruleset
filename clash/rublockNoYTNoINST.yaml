@@ -9,8 +9,8 @@ payload:
   - DOMAIN-KEYWORD,pinterest
   - DOMAIN-KEYWORD,pornhub
   - DOMAIN-KEYWORD,voidboost
-  - DOMAIN-SUFFIX,overwolf.com
-  - DOMAIN-SUFFIX,porofessor.com
+  - DOMAIN-KEYWORD,overwolf
+  - DOMAIN-KEYWORD,porofessor
   - DOMAIN-SUFFIX,riotgames.com
   - DOMAIN-SUFFIX,.ua
   - DOMAIN-SUFFIX,10minutemail.com

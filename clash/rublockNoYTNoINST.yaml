@@ -4,12 +4,13 @@ payload:
   - DOMAIN-KEYWORD,crealitycloud
   - DOMAIN-KEYWORD,developerprofiles
   - DOMAIN-KEYWORD,filmix
-  - DOMAIN-KEYWORD,rezka
-  - DOMAIN-KEYWORD,hdrezka
   - DOMAIN-KEYWORD,generativelanguage
   - DOMAIN-KEYWORD,openai
   - DOMAIN-KEYWORD,pinterest
   - DOMAIN-KEYWORD,pornhub
+  - DOMAIN-SUFFIX,hdrzk.org
+  - DOMAIN-SUFFIX,rezkify.com
+  - DOMAIN-KEYWORD,rezka
   - DOMAIN-SUFFIX,riotgames.com
   - DOMAIN-SUFFIX,steamdb.info
   - DOMAIN-SUFFIX,.ua

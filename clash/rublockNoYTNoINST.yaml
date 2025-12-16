@@ -280,7 +280,7 @@ payload:
   - DOMAIN-SUFFIX,disctech.com
   - DOMAIN-SUFFIX,disneyplus.com
   - DOMAIN-SUFFIX,docs.liquibase.com
-  - DOMAIN-SUFFIX,domain,ai.google.dev
+  - DOMAIN-SUFFIX,domain.ai.google.dev
   - DOMAIN-SUFFIX,domain,alkalimakersuite-pa.clients6.google.com
   - DOMAIN-SUFFIX,domain,makersuite.google.com
   - DOMAIN-SUFFIX,domain,pairwise.teremokgames.com

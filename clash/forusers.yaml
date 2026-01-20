@@ -11,4 +11,33 @@ payload:
   - DOMAIN-SUFFIX,login.ml.youngjoygame.com
   - DOMAIN-SUFFIX,newlogin.ml.youngjoygame.com
   - DOMAIN-KEYWORD,youngjoygame
+  - DOMAIN-SUFFIX,addr.tools
+  - DOMAIN-SUFFIX,account.live.com
+  - DOMAIN-SUFFIX,account.microsoft.com
+  - DOMAIN-SUFFIX,accounts.xboxlive.com
+  - DOMAIN-SUFFIX,cp.microsoft.com
+  - DOMAIN-SUFFIX,device.auth.xboxlive.com
+  - DOMAIN-SUFFIX,digicert.com
+  - DOMAIN-SUFFIX,dlassets-ssl.xboxlive.com
+  - DOMAIN-SUFFIX,gamepass.com
+  - DOMAIN-SUFFIX,gfx.ms
+  - DOMAIN-SUFFIX,images-eds-ssl.xboxlive.com
+  - DOMAIN-SUFFIX,login.live.com
+  - DOMAIN-SUFFIX,mgt.xboxlive.com
+  - DOMAIN-SUFFIX,microsoftonline.com
+  - DOMAIN-SUFFIX,mp.microsoft.com
+  - DOMAIN-SUFFIX,msftauth.net
+  - DOMAIN-SUFFIX,msn.com
+  - DOMAIN-SUFFIX,packages.xboxlive.com
+  - DOMAIN-SUFFIX,pmservices.cp.microsoft.com
+  - DOMAIN-SUFFIX,rta.xboxlive.com
+  - DOMAIN-SUFFIX,title.auth.xboxlive.com
+  - DOMAIN-SUFFIX,titlestorage.xboxlive.com
+  - DOMAIN-SUFFIX,user.auth.xboxlive.com
+  - DOMAIN-SUFFIX,xbl-smooth.xboxlive.com
+  - DOMAIN-SUFFIX,xbox.com
+  - DOMAIN-SUFFIX,xboxab.com
+  - DOMAIN-SUFFIX,teal.xboxservices.com
+  - DOMAIN-SUFFIX,silver.xboxservices.com
+  - DOMAIN-SUFFIX,xsts.auth.xboxlive.com
 
